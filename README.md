@@ -40,8 +40,8 @@ Complete all weeks up to a milestone to earn an **on-chain SVG badge NFT**.
 
 ## Links
 
-- [TURBO Dashboard](https://turbo.empowertours.fun/homework)
-- [TURBO Main Site](https://turbo.empowertours.fun)
+- [TURBO Dashboard](https://turbo-empowertours-production.up.railway.app/homework)
+- [TURBO Main Site](https://turbo-empowertours-production.up.railway.app)
 
 ---
 
